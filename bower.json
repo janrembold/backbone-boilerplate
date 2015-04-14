@@ -1,0 +1,20 @@
+{
+  "name": "backbone-boilerplate",
+  "private": true,
+  "version": "0.0.1",
+  "authors": [
+    "Jan Rembold <janrembold@googlemail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "backbone": "~1.1.2",
+    "handlebars": "~3.0.0"
+  }
+}
